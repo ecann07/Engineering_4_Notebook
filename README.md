@@ -15,5 +15,5 @@ I used the assemly tools including to snap to tool to use different configuratio
 
 ### Instrucion Manual 
 I used an exploded view and multiple views of the assembly in order to make an easy to follow instruction manual 
-
-
+![image](https://user-images.githubusercontent.com/60944377/153439767-c54f368b-0124-474a-821a-bcb29ec59e8c.png)
+![image](https://user-images.githubusercontent.com/60944377/153439893-392fa878-5dba-4f20-9402-8c694047ab2a.png)
