@@ -11,9 +11,9 @@ These are examples of using configurations to make one part into many different 
 
 ### Assembling bricks 
 I used the assemly tools including to snap to tool to use different configurations of the lego brick I made to make a duck with them
-![image](https://user-images.githubusercontent.com/60944377/153436803-dff3c308-2f52-4998-b8fc-6c652d51adc7.png)
+![image](https://user-images.githubusercontent.com/60944377/154092904-646d9611-80ae-4819-83aa-1f79b4a90e69.png)
 
 ### Instrucion Manual 
 I used an exploded view and multiple views of the assembly in order to make an easy to follow instruction manual 
-![image](https://user-images.githubusercontent.com/60944377/153439767-c54f368b-0124-474a-821a-bcb29ec59e8c.png)
-![image](https://user-images.githubusercontent.com/60944377/153439893-392fa878-5dba-4f20-9402-8c694047ab2a.png)
+![image](https://user-images.githubusercontent.com/60944377/154093060-c8cd3df2-b27e-4876-aebc-476c3441ab0b.png)
+![image](https://user-images.githubusercontent.com/60944377/154093229-5b4dd5bb-cbfc-4b83-bc04-ffca67387029.png)
