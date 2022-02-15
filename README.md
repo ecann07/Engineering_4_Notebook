@@ -10,7 +10,7 @@ These are examples of using configurations to make one part into many different 
 ![image](https://user-images.githubusercontent.com/60944377/153432238-b6f138c4-841d-47d6-9eda-572cd5d5c6f9.png)
 
 ### Assembling bricks 
-I used the assemly tools including to snap to tool to use different configurations of the lego brick I made to make a duck with them
+I used the assemly tools including to snap to tool to use different configurations of the lego brick I made to make a person with them
 ![image](https://user-images.githubusercontent.com/60944377/154092904-646d9611-80ae-4819-83aa-1f79b4a90e69.png)
 
 ### Instrucion Manual 
